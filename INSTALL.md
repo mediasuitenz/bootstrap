@@ -33,17 +33,17 @@ any problems try running `brew doctor` as a first step
     - nodejs (Node and NPM)
         - download binary from `http://nodejs.org` or `brew install node`
     - screenhero (Screensharing and pair programming tool)
-        - download binary package
+        - download binary package from `http://screenhero.com/download.html`
     - sequel pro (Mysql management tool)
-        - download binary package
+        - download binary package from `http://www.sequelpro.com/download`
     - pgadmin3 (Postgres management tool)
-        - download binary package
+        - download binary package from `http://www.pgadmin.org/download/macosx.php`
     - heroku toolbelt (Command line tools for working with heroku projects)
-        - `heroku-toolbelt`
+        - `brew install heroku-toolbelt` or from binary `https://toolbelt.heroku.com`
     - virtualbox (Virtualmachine provider)
-        - download binary package
+        - download binary package from `https://www.virtualbox.org/wiki/Downloads`
     - vagrant (Virtualmachine controller)
-        - download binary package
+        - download binary package from `https://www.vagrantup.com/downloads.html`
     - hub (github tools)
         - `brew install hub`
     - dash (offline documentation)
