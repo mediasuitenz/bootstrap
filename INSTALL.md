@@ -25,13 +25,13 @@ any problems try running `brew doctor` as a first step
     - xcode command line tools
         - `xcode-select --install`
     - iterm2 (replacement for native terminal app)
-        - download binary package
+        - download binary package from `http://www.iterm2.com`
     - zsh (replacement for bash shell)
         - `brew install zsh`
     - ohmyzsh (zsh configured and enhanced)
         - `curl -L http://install.ohmyz.sh | sh`
     - nodejs (Node and NPM)
-        - `brew install nodejs`
+        - download binary from `http://nodejs.org` or `brew install node`
     - screenhero (Screensharing and pair programming tool)
         - download binary package
     - sequel pro (Mysql management tool)
