@@ -11,7 +11,8 @@
 ## Package manager (homebrew)
 
 Quite a few things can be installed via homebrew using `brew install`. You can use
-`brew search` to find packages and `brew list` to see installed packages
+`brew search` to find packages and `brew list` to see installed packages. If you have
+any problems try running `brew doctor` as a first step
 
 - Installs
     - homebrew `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
