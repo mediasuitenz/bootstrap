@@ -9,7 +9,7 @@ get setup properly
 
 ## Configure git global values
 
-- color.ui (todo)
-- color \"diff\".whitespace (todo)
-- username (todo)
-- emails (todo)
+`$ git config --global user.name "John Doe"`
+`$ git config --global user.email johndoe@example.com`
+`$ git config --global color.ui true`
+`$ git config --global color.diff.whitespace "red reverse"`
