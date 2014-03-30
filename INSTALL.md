@@ -3,8 +3,10 @@
 ## Dependencies
 
 - Installs
-    - java (todo)
-    - ruby `curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enabled # Or, --ruby=1.9.3`
+    - java (bundled in earlier versions of Mac OSX)
+        - (Mavericks) `http://support.apple.com/kb/DL1572?viewlocale=en_US`
+    - ruby
+        - `curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enabled # Or, --ruby=1.9.3`
 
 ## Package manager (homebrew)
 
