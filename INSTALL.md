@@ -72,6 +72,11 @@ Quite a few things can be installed via homebrew using `brew install`. You can u
     - shiftit   (windows like window snapping)
     - dropbox   (filesharing)
 
+## Nice to haves one day
+
+- Installs
+    - TMUX (needs to work with iterm2)
+
 ## Stuff boxen used to install
 (and I have no idea what does)
 
