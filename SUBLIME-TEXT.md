@@ -35,18 +35,27 @@ modules
 ## Sublime Text Modules
 (install with sublime package control)
 
-- Editorconfig      Shared project editor configuration management
-- Sublime JSHint    JS Hint javascript linting
-- Modific           Highlights git changes in the gutter
-- Phpcs             PHP code sniffer (issue highlighting), [see here for configuration](https://github.com/mediasuitenz/php-code-standard)
-- phpfmt            PHP auto-formatter, see sublime config example folder
+"DashDoc",
+"DocBlockr",
+"EasyDiff",
+"EditorConfig",
+"Handlebars",
+"JSHint Gutter",
+"JSX",
+"Markdown Preview",
+"Modific",
+"Package Control",
+"Phpcs",
+"phpfmt",
+"Pretty JSON",
+"Puppet",
+"Sass",
+"StandardFormat",
+"SublimeLinter",
+"SublimeLinter-contrib-standard",
+"tern_for_sublime"
 
-
-- Puppet            Puppet syntax highlighting
-- Doc​Blockr         Block comments for functions/methods
-- Markdown Preview  Build html files to html
-- Handlebars        Highlighting for handlebars files
-- Dash Doc​          Dash doc lookup via cntl + h
+[see here for configuration](https://github.com/mediasuitenz/php-code-standard)
 
 ## Commands
 
