@@ -36,7 +36,7 @@ any problems try running `brew doctor` as a first step
     - nodejs (Node and NPM)
         - download binary from `http://nodejs.org` or `brew install node`
     - Install 'n' and switch to node LTS 4.2
-        - install nom n package with `npm install -g n`
+        - install npm n package with `npm install -g n`
         - install node v4.2, the current LTS `n 4.2`
     - screenhero (Screensharing and pair programming tool)
         - download binary package from `http://screenhero.com/download.html`
