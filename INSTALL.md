@@ -45,6 +45,7 @@ any problems try running `brew doctor` as a first step
         - download binary package from `http://www.sequelpro.com/download`
     - Postgres.app
         - http://postgresapp.com/
+        - add postgres tools to path by adding `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin` to your .zshrc
     - pgadmin3 (Postgres management tool)
         - download binary package from `http://www.pgadmin.org/download/macosx.php`
     - heroku toolbelt (Command line tools for working with heroku projects)
