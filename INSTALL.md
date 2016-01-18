@@ -57,10 +57,11 @@ any problems try running `brew doctor` as a first step
         - app store using developers@mediasuite.co.nz itunes store account
 
 ## Time-tracking
-    - Toggl (desktop app for time tracking)
-        - `brew cask install toggldesktop`
-    - Jiggl-ui
-        - https://github.com/mediasuitenz/jiggl-ui
+
+- Toggl (desktop app for time tracking)
+    - `brew cask install toggldesktop`
+- Jiggl-ui
+    - https://github.com/mediasuitenz/jiggl-ui
 
 ## Browsers
 
