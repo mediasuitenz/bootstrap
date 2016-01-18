@@ -43,6 +43,8 @@ any problems try running `brew doctor` as a first step
         - download binary package from `http://screenhero.com/download.html`
     - sequel pro (Mysql management tool)
         - download binary package from `http://www.sequelpro.com/download`
+    - Postgres.app
+        - http://postgresapp.com/
     - pgadmin3 (Postgres management tool)
         - download binary package from `http://www.pgadmin.org/download/macosx.php`
     - heroku toolbelt (Command line tools for working with heroku projects)
