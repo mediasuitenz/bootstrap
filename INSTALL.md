@@ -56,13 +56,12 @@ any problems try running `brew doctor` as a first step
 
 - Installs
     - chrome    (download binary package)
-    - opera     (download binary package)
     - firefox   (download binary package)
 
 ## Communication tools
 
 - Installs
-    - hipchat   (group chat)
+    - slack   (group chat)
         - download binary package
     - skype     (video chat)
         - download binary package
@@ -75,20 +74,3 @@ any problems try running `brew doctor` as a first step
     - caffeine  (keeps your screen awake)
     - shiftit   (windows like window snapping)
     - dropbox   (filesharing)
-
-## Nice to haves one day
-
-- Installs
-    - TMUX (needs to work with iterm2)
-
-## Stuff boxen used to install
-(and I have no idea what does)
-
-- Installs
-    - autoconf
-    - inifile
-    - openssl
-    - repository
-    - stdlib
-    - sudo
-    - xquartz
