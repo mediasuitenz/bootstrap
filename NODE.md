@@ -18,4 +18,4 @@ file. ie Add something like the following:
 
 - mocha testing framework - `npm install -g mocha`
 - nightwatch webdriver framework - `npm install -g nightwatch`
-- (todo) add more as needed
+- n for managing different version of node `npm install -g n`
