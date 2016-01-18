@@ -16,6 +16,7 @@ any problems try running `brew doctor` as a first step
 
 - Installs
     - homebrew `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
+    - `brew install cask` to be able to install binaries like Firefox
 
 ## Developer tools
 
@@ -55,19 +56,27 @@ any problems try running `brew doctor` as a first step
     - dash (offline documentation)
         - app store using developers@mediasuite.co.nz itunes store account
 
+## Time-tracking
+    - Toggl (desktop app for time tracking)
+        - `brew cask install toggldesktop`
+    - Jiggl-ui
+        - https://github.com/mediasuitenz/jiggl-ui
+
 ## Browsers
 
 - Installs
     - chrome    (download binary package)
+        - `brew cask install chrome`
     - firefox   (download binary package)
+        - `brew cask install firefox` 
 
 ## Communication tools
 
 - Installs
     - slack   (group chat)
-        - download binary package
+        - `brew cask install slack`
     - skype     (video chat)
-        - download binary package
+        - `brew cask install skype`
 
 ## Other popular apps
 
