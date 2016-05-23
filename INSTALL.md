@@ -27,7 +27,7 @@ any problems try running `brew doctor` as a first step
         - If this command gives you an error regarding not being available via software update then you can also download it by launching Xcode -> Xcode menu -> Open Developer Tools... This will take you to an Apple dev tools site.
         - `xcode-select --install`
     - iterm2 (replacement for native terminal app)
-        - download binary package from `http://www.iterm2.com`
+        - download binary package from http://www.iterm2.com
     - zsh (replacement for bash shell)
         - `brew install zsh`
     - ohmyzsh (zsh configured and enhanced)
@@ -35,25 +35,25 @@ any problems try running `brew doctor` as a first step
     - change your default shell to zsh
         - `chsh -s /bin/zsh`
     - nodejs (Node and NPM)
-        - download binary from `http://nodejs.org` or `brew install node`
+        - download binary from http://nodejs.org or `brew install node`
     - Install 'n' and switch to node LTS 4.2
         - install npm n package with `npm install -g n`
-        - install node v4.2, the current LTS `n 4.2`
+        - install node v4.4, the current LTS `n 4.4`
     - screenhero (Screensharing and pair programming tool)
-        - download binary package from `http://screenhero.com/download.html`
+        - download binary package from http://screenhero.com/download.html
     - sequel pro (Mysql management tool)
-        - download binary package from `http://www.sequelpro.com/download`
+        - download binary package from http://www.sequelpro.com/download
     - Postgres.app
         - http://postgresapp.com/
         - add postgres tools to path by adding `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin` to your .zshrc
     - pgadmin3 (Postgres management tool)
-        - download binary package from `http://www.pgadmin.org/download/macosx.php`
+        - download binary package from http://www.pgadmin.org/download/macosx.php
     - heroku toolbelt (Command line tools for working with heroku projects)
-        - `brew install heroku-toolbelt` or from binary `https://toolbelt.heroku.com`
+        - `brew install heroku-toolbelt` or from binary https://toolbelt.heroku.com
     - virtualbox (Virtualmachine provider)
-        - download binary package from `https://www.virtualbox.org/wiki/Downloads`
+        - download binary package from https://www.virtualbox.org/wiki/Downloads
     - vagrant (Virtualmachine controller)
-        - download binary package from `https://www.vagrantup.com/downloads.html`
+        - download binary package from https://www.vagrantup.com/downloads.html
     - hub (github tools)
         - `brew install hub`
     - dash (offline documentation)
