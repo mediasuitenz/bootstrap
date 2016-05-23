@@ -28,7 +28,7 @@ Save config files and snippets into your sublime package User folder (typically 
 ```
 
 ## Package Control
-Install sublime package control so that:
+Install [Sublime Package Control](https://packagecontrol.io/installation) so that:
 shift + cmd + p > Package Control - Install Packages can be used to install
 modules
 
