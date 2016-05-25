@@ -60,6 +60,8 @@ any problems try running `brew doctor` as a first step
         - `brew install hub`
     - dash (offline documentation)
         - app store using developers@mediasuite.co.nz itunes store account
+    - AWS Elastic Beanstalk Command Line Interface (provides eb command)
+        - `brew install aws-elasticbeanstalk`
 
 ## Time-tracking
 
