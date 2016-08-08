@@ -30,12 +30,15 @@ any problems try running `brew doctor` as a first step
         - download binary package from http://www.iterm2.com
     - zsh (replacement for bash shell)
         - `brew install zsh`
+        - review and copy the config files from this repo config-files/.zshrc
     - ohmyzsh (zsh configured and enhanced)
         - `curl -L http://install.ohmyz.sh | sh`
     - change your default shell to zsh
         - `chsh -s /bin/zsh`
     - nodejs (Node and NPM)
         - download binary from http://nodejs.org or `brew install node`
+        - Install n (node version manager) `npm install -g n`
+        - `which node` and `which npm` should return valid paths, if not try adding `export PATH=/path/to/node/bin:$PATH` to your .zshrc
     - Install 'n' and switch to node LTS 4.2
         - install npm n package with `npm install -g n`
         - install node v4.4, the current LTS `n 4.4`
@@ -46,8 +49,8 @@ any problems try running `brew doctor` as a first step
     - Postgres.app
         - http://postgresapp.com/
         - add postgres tools to path by adding `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin` to your .zshrc
-    - pgadmin3 (Postgres management tool)
-        - download binary package from http://www.pgadmin.org/download/macosx.php
+    - Postico
+        - `brew cask install postico`  
     - heroku toolbelt (Command line tools for working with heroku projects)
         - `brew install heroku-toolbelt` or from binary https://toolbelt.heroku.com
     - virtualbox (Virtualmachine provider)
@@ -78,6 +81,13 @@ any problems try running `brew doctor` as a first step
     - firefox   (download binary package)
         - `brew cask install firefox` 
 
+## Git Config
+- Create a key and add it to github: https://help.github.com/articles/generating-ssh-keys
+- `git config --global user.name "John Doe"`
+- `git config --global user.email johndoe@example.com`
+- `git config --global color.ui true`
+- `git config --global color.diff.whitespace "red reverse"`
+
 ## Communication tools
 
 - Installs
@@ -85,12 +95,12 @@ any problems try running `brew doctor` as a first step
         - `brew cask install slack`
     - skype     (video chat)
         - `brew cask install skype`
+    - zoom
+        - https://zoom.us/download
 
 ## Other popular apps
 
 - Installs
-    - spotify   (music)
-    - mplayerx  (video player that plays just about anything)
-    - caffeine  (keeps your screen awake)
-    - shiftit   (windows like window snapping)
-    - dropbox   (filesharing)
+    - mpv  video player that plays just about anything
+    - caffeine  keeps your screen awake
+    - spectacle   window arrangement shortcuts
