@@ -66,11 +66,18 @@ any problems try running `brew doctor` as a first step
     - AWS Elastic Beanstalk Command Line Interface (provides eb command)
         - `brew install aws-elasticbeanstalk`
 
+## Git Config
+- Create a key and add it to github: https://help.github.com/articles/generating-ssh-keys
+- `git config --global user.name "John Doe"`
+- `git config --global user.email johndoe@example.com`
+- `git config --global color.ui true`
+- `git config --global color.diff.whitespace "red reverse"`
+
 ## Time-tracking
 
-- Toggl (desktop app for time tracking)
-    - `brew cask install toggldesktop`
-- Jiggl-ui
+  Time-tracking is performed using the commercial Toggl Application, with a link to JIRA via the in-house Jiggle-UI.
+
+- Toggl & Jiggl-ui
     - https://github.com/mediasuitenz/jiggl-ui
 
 ## Browsers
@@ -80,13 +87,6 @@ any problems try running `brew doctor` as a first step
         - `brew cask install chrome`
     - firefox   (download binary package)
         - `brew cask install firefox` 
-
-## Git Config
-- Create a key and add it to github: https://help.github.com/articles/generating-ssh-keys
-- `git config --global user.name "John Doe"`
-- `git config --global user.email johndoe@example.com`
-- `git config --global color.ui true`
-- `git config --global color.diff.whitespace "red reverse"`
 
 ## Communication tools
 
