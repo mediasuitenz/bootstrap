@@ -38,7 +38,7 @@ any problems try running `brew doctor` as a first step
     - nodejs (Node and NPM)
         - download binary from http://nodejs.org or `brew install node`
         - Install n (node version manager) `npm install -g n`
-        - `which node` and `which npm` should return valid paths, if not try adding `export PATH=/path/to/node/bin:$PATH` to your .zshrc
+        - `which node` and `which npm` should return valid paths, if not try adding `export PATH=/path/to/node/bin:$PATH` to your .zshrc (in your user's home directory)
     - Install 'n' and switch to node LTS 4.2
         - install npm n package with `npm install -g n`
         - install node v4.4, the current LTS `n 4.4`
@@ -48,7 +48,7 @@ any problems try running `brew doctor` as a first step
         - download binary package from http://www.sequelpro.com/download
     - Postgres.app
         - http://postgresapp.com/
-        - add postgres tools to path by adding `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin` to your .zshrc
+        - add postgres tools to path by adding `export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.5/bin` to your .zshrc (note that the version number in the path needs to match the version number of your PostgreSQL install)
     - Postico
         - `brew cask install postico`  
     - heroku toolbelt (Command line tools for working with heroku projects)
