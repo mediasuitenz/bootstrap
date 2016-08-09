@@ -55,8 +55,8 @@ any problems try running `brew doctor` as a first step
         - `brew install heroku-toolbelt` or from binary https://toolbelt.heroku.com
     - virtualbox (Virtualmachine provider)
         - download binary package from https://www.virtualbox.org/wiki/Downloads
-    - docker toolbox
-        - `brew cask install dockertoolbox` or from https://docs.docker.com/mac/step_one/
+    - Docker for Mac
+        - https://docs.docker.com/docker-for-mac/
     - vagrant (Virtualmachine controller)
         - download binary package from https://www.vagrantup.com/downloads.html
     - hub (github tools)
