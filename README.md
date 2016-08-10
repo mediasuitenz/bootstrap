@@ -65,6 +65,11 @@ any problems try running `brew doctor` as a first step
         - app store using developers@mediasuite.co.nz itunes store account
     - AWS Elastic Beanstalk Command Line Interface (provides eb command)
         - `brew install aws-elasticbeanstalk`
+    - Mockflow (UX Diagraming and design tools)
+        -  Download the Adobe Air Runtime (https://get.adobe.com/air/)
+        -  Log onto the Mockflow website (http://mockflow.com) using credentials in Broken Jandal
+        -  Download the Mac Mockflow Application (MockFlow-Desktop.air)
+        -  Install the Application and use the same credentials
 
 ## Git Config
 - Create a key and add it to github: https://help.github.com/articles/generating-ssh-keys
