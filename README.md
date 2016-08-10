@@ -109,3 +109,8 @@ any problems try running `brew doctor` as a first step
     - mpv  video player that plays just about anything
     - caffeine  keeps your screen awake
     - spectacle   window arrangement shortcuts
+
+## Other Mac Configuration Options
+ - You may wish to update Finder so that it shows hidden files:
+    -  Open a Terminal Window and type `defaults write com.apple.finder AppleShowAllFiles YES`
+    -  Restart Finder `killAll Finder`
